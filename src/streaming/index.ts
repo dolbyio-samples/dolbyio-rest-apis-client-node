@@ -17,3 +17,5 @@ export * as recordFiles from './recordFiles';
 export * as stream from './stream';
 export * as subscribeToken from './subscribeToken';
 export * as webhooks from './webhooks';
+
+export * as assets from './assets';
